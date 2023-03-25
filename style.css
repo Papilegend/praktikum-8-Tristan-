@@ -1,5 +1,5 @@
 body {
-  font-family: Roboto;
+  font-family: ;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -26,8 +26,8 @@ input {
 button {
   padding: 0.5rem 1rem;
   font-size: 1rem;
-  background-color:#4BFFFE;
-  color:#EB57B7 ;
+  background-color:#1cbd24;
+  color:#fcfffd ;
   border: none;
   border-radius: 5px;
   cursor: pointer;
